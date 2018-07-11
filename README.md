@@ -1,8 +1,6 @@
-# flutter_demo
 
-A new Flutter project.
+# flutter_demo_social_login
+A demo use Flutter login via Facebook and Firebase
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+// view android/app/src/main/res/values/strings.xml for config Facebook App Id
